@@ -11,30 +11,30 @@
 
 ### Mother Box Fragments
 - **Origin**: `DC-CANON`
-- **Canon Description**: Living computers from New Genesis/Apokolips. Sentient technology that assists its user.
+- **Canon Description**: Sentient, miniaturized supercomputers made using Element X (*New Gods*, 1971, Jack Kirby). Part living being, part machine. Powered by The Source (the metaphysical force driving the universe). Named for "unconditional motherly love" they show their users. Self-destruct when owner dies. Can only be manufactured by someone born on New Genesis or Apokolips. **Abilities:** Boom Tube teleportation, healing, energy manipulation/absorption, danger sense, premonition, energy blasts. Not always box-shaped — Mister Miracle had Mother Box circuitry woven into his costume hood. **Father Boxes** are the Apokoliptian counterpart: "pure evil" persona, powered by Anti-Life Equation energy.
 - **Session Description**: Referenced in the System's salvage collection. Analysis document describes Mother Box fragment "choosing cooperation" as a worthiness test. Database contains entries for Apokoliptian technology. Batman mentions Mother Box fragments that won't interface with Earth technology.
-- **Accuracy Notes**: Mother Boxes and their sentient, cooperative nature are well-established in *New Gods* and related titles (Jack Kirby's Fourth World). The idea of a Mother Box fragment "choosing" to cooperate is consistent with their published sentient nature.
+- **Accuracy Notes**: The Mother Box "choosing cooperation" is deeply canon-consistent — they are sentient beings that form empathic bonds. A fragment choosing to cooperate with a worthy user mirrors published behavior. The Element X connection is critical: the System discovered Element X empirically, and Mother Boxes are *made from* Element X. This may explain why the fragment responded to the System.
 - **Confidence**: `[DC-CANON]`
 
 ### Kryptonian Sunstone
 - **Origin**: `DC-CANON`
-- **Canon Description**: Kryptonian crystalline technology used for data storage, construction, and computation. Forms the basis of the Fortress of Solitude.
+- **Canon Description**: Adaptable crystalline mineral indigenous to Krypton. **Self-replicating** (small fragments grow into large-scale formations), **architecturally programmable** (buildings, starships, Fortress of Solitude), **data storage** (exceeds any Earth computer), **AI integration** (simulates personalities like Jor-El's). Kryptonian civilization built entire infrastructure from Sunstone. In *Absolute Superman*, forms Superman's cape — prehensile, bulletproof, shapeshifting, connected to AI "Sol."
 - **Session Description**: Referenced as one of the alien technologies the System has reverse-engineered. Analysis document describes "cross-compiling on alien hardware."
-- **Accuracy Notes**: Sunstone technology is well-established in Superman-related titles.
+- **Accuracy Notes**: Sunstone's self-replicating property means even a small salvaged fragment could potentially grow into useful amounts. Its data storage capability exceeding Earth computers makes "cross-compiling on alien hardware" a precisely accurate description of what the System would be doing.
 - **Confidence**: `[DC-CANON]`
 
 ### Nth Metal
 - **Origin**: `DC-CANON`
-- **Canon Description**: Thanagarian metal with properties including gravity negation, enhanced strength, and magical conductivity. Connected to Hawkman/Hawkgirl.
+- **Canon Description**: Originally native to Thanagar. First appeared *Flash Comics* #1 (1940). Post-Rebirth: originated in Dark Multiverse as incomplete Element X (the "Ninth" Metal), sent to dawn of time by Barbatos. One of five "divine metals." **Properties:** gravity negation (carry 20-70x normal weight), **anti-magical** (immediately negates magic on contact, destroys magical barriers, can harm Elder Gods), psycho-receptive/nigh-sentient (forms empathic bonds), shape-shifting in purest form, energy absorption/redistribution, accelerated healing, enhanced strength, temperature resistance, temporal travel to contact past lives. Essentially indestructible once forged (immune to heat below stellar temperatures). Forced Khufu/Chay-ara into reincarnation cycle (Hawkman/Hawkgirl). **Notable artifacts made of Nth Metal:** Hawkman's Mace, the Helmet of Fate (Nabu), Legion flight rings (Valorium alloy).
 - **Session Description**: Referenced as one of the exotic materials in the System's collection. "Nth metal shards" among salvaged materials.
-- **Accuracy Notes**: Nth Metal's unique resonance and properties are well-established, expanded significantly in *Dark Nights: Metal*.
+- **Accuracy Notes**: The anti-magical property of Nth Metal is critically important — it "immediately negates magic on contact." A salvager working with Nth Metal alongside magical materials would encounter unique challenges. The fact that the Helmet of Fate is made of Nth Metal connects the Lords of Order to the Dark Multiverse metal hierarchy. The System possessing Nth Metal shards means they have material that is literally a fragment of the Dark Multiverse's substance.
 - **Confidence**: `[DC-CANON]`
 
 ### Dionesium
 - **Origin**: `DC-CANON`
-- **Canon Description**: A chemical compound found in caves beneath Gotham with extraordinary regenerative properties. Kept the Joker alive for potentially centuries. Central to *Batman: Endgame*.
+- **Canon Description**: Naturally occurring liquid metal with supernatural healing/resurrection properties, found in caves beneath Gotham. Named after Dionysus. Kept the Joker alive for potentially centuries (*Batman: Endgame*). **Key connections:** Found in impure form in Lazarus Pits (explaining Ra's al Ghul's longevity), in the electrum of the Court of Owls (explaining Talon reanimation), and in the rock that empowered Vandal Savage. One of the five divine metals in the mantling prophecy that opens a portal to the Dark Multiverse. The Dionesium pool beneath Gotham was destroyed when Batman and Joker's final battle collapsed the cave system.
 - **Session Description**: Database entry: "healing_fluid_cave_incident — pale_substance — cellular_regeneration_factor_extraordinary." Stored in magically-reinforced cryogenic suspension in the safe.
-- **Accuracy Notes**: Dionesium's properties and origin (caves beneath Gotham, connection to the Joker's longevity) are canon-accurate. The System not knowing the official name but accurately describing its properties is consistent with their civilian perspective.
+- **Accuracy Notes**: Canon-accurate. The System's description perfectly matches Dionesium without using its name — they discovered it empirically. **The Lazarus Pit connection is significant:** Dionesium in impure form is what makes Lazarus Pits work, meaning the System may have unknowingly catalogued material related to one of the oldest mystical phenomena in the DCU. The connection to electrum (Talon reanimation compounds) means the System's 12 "undead_reanimation_agent" entries may contain trace Dionesium.
 - **Confidence**: `[DC-CANON]`
 
 ### Joker Toxin
@@ -44,11 +44,11 @@
 - **Accuracy Notes**: Multiple Joker toxin formulations existing is canon-accurate (different attacks use different variants).
 - **Confidence**: `[DC-CANON]`
 
-### Talon Reanimation Compounds
+### Talon Reanimation Compounds (Electrum)
 - **Origin**: `DC-CANON`
-- **Canon Description**: Electrum-based compounds used by the Court of Owls to reanimate their Talon assassins.
+- **Canon Description**: **Electrum** is a metallic alloy with reanimation properties. Talons had electrum-infused blood and electrum tooth implants. Electrum fuels itself on body heat and can reanimate dead tissue. Contains trace amounts of Dionesium (revealed in *Endgame*). Cold temperatures neutralize electrum's regenerative properties — this is how Talons were ultimately defeated and contained. Mister Freeze unknowingly perfected the Court's electrum reanimation process while working against Batman. Electrum is one of the five divine metals in the mantling prophecy.
 - **Session Description**: Database tag "undead_reanimation_agent" returns 12 entries. Stored in sealed vials with triple containment in the safe.
-- **Accuracy Notes**: Electrum as the reanimation agent for Talons is established in *Batman* vol. 2 (Court of Owls arc).
+- **Accuracy Notes**: Electrum as the reanimation agent for Talons is established in *Batman* vol. 2. The triple containment storage is appropriate given the material's self-activating properties. **The trace Dionesium in electrum means the System's electrum samples and Dionesium samples are chemically related** — a connection the System may or may not have identified through their property-based analysis.
 - **Confidence**: `[DC-CANON]`
 
 ### Scarecrow Fear Toxin
@@ -60,30 +60,30 @@
 
 ### Apokoliptian Technology
 - **Origin**: `DC-CANON`
-- **Canon Description**: Advanced alien technology from Apokolips, including Parademon armor, Boom Tubes, and various weapons.
-- **Session Description**: "Parademon armor" specifically listed as salvage. Fragments in the database. Batman mentions Apokoliptian tech that corrupts users.
-- **Accuracy Notes**: Apokoliptian technology is well-established from Darkseid-related conflicts (Justice League origins, Darkseid War, etc.).
+- **Canon Description**: Advanced alien technology from Apokolips (Jack Kirby's Fourth World, 1970-1971). Key technologies: **Boom Tubes** (interstellar/interdimensional portals, invented through a deal between Darkseid and Metron using Element X), **Parademons** (brainwashed/resurrected soldiers from conquered races), **Father Boxes** (sentient computers powered by Anti-Life Equation energy, "pure evil" counterpart to Mother Boxes), **Entropy Aegis Armor** (full battle armor, used by Steel). Apokoliptian tech is **fundamentally incompatible** with most other technological paradigms (Kryptonian, Earth-based). Apokolips supplies Earth criminal organizations (Intergang) with advanced weapons to further Darkseid's Anti-Life Equation search.
+- **Session Description**: "Parademon armor" specifically listed as salvage. Fragments in the database. Batman mentions Apokoliptian tech that corrupts users and won't interface with Earth technology.
+- **Accuracy Notes**: Canon-accurate. The tech incompatibility Batman references is well-established — it's why Cyborg's biological Mother Box integration is unique. The "corrupts users" warning is consistent with Father Box behavior (Father Boxes have been shown manipulating and corrupting their hosts). The System's ability to work with Apokoliptian tech fragments without biological integration is part of what makes their work unprecedented.
 - **Confidence**: `[DC-CANON]`
 
 ### Reach Biotech
 - **Origin**: `DC-CANON`
-- **Canon Description**: Biological technology from the Reach (alien race associated with Blue Beetle). Integrates with host nervous systems.
+- **Canon Description**: The Reach is a conquering alien empire (~10,000 planets). Their Scarabs are genetically engineered living bioweapons — techno-organic parasitic exoskeletons. They discovered a species of parasitic insects and adapted them into sentient weapons. Standard protocol: Scarab bonds to host's spine, overwrites personality. **Khaji Da** (Blue Beetle's Scarab) was infused with magical energies on Earth, separating it from its Reach database — when it bonded to Jaime Reyes, it couldn't overwrite his personality because of this magical interference. Powers granted: superhuman strength/speed, armored exoskeleton, energy blasts, blade weapons, wings, shape-adaptive weaponry. Khaji Da eventually transmitted freedom concepts across the Scarab network.
 - **Session Description**: Referenced in the grimoire — erotic art of Reach biotech integration with human nervous systems, studied from both theological (Ishtarite) and empirical perspectives.
-- **Accuracy Notes**: Reach biotech integration with human hosts is established in Blue Beetle-related titles.
+- **Accuracy Notes**: Canon-accurate. **The magical interference that gave Khaji Da free will is a published canon example of tech-magic interaction** — directly relevant to the System's hybrid integration research. The System studying Reach biotech integration from both theological and empirical perspectives mirrors the canonical reality that magic literally changed how the Scarab functioned.
 - **Confidence**: `[DC-CANON]`
 
 ### Crime Syndicate Antimatter Tech
 - **Origin**: `DC-CANON`
-- **Canon Description**: Technology from Earth-3's Crime Syndicate, based on antimatter energy.
+- **Canon Description**: Technology from Earth-3's Crime Syndicate. Key items: Owlman's antimatter teleportation devices, Power Ring (corrupted Green Lantern ring), Grid (sentient AI virus that took over Cyborg's cybernetics). During *Forever Evil*, the Syndicate destroyed the JL Watchtower and exposed every ARGUS undercover agent's identity.
 - **Session Description**: 17 database entries with "antimatter_signature_trace" tag from Forever Evil event salvage.
-- **Accuracy Notes**: Crime Syndicate's antimatter-based technology from Earth-3 is established in *Forever Evil*.
+- **Accuracy Notes**: Canon-accurate. The antimatter technology is genuinely from another universe (Earth-3) and operates on fundamentally different physical principles. Seventeen distinct samples is plausible given the scale of the Forever Evil invasion of Gotham.
 - **Confidence**: `[DC-CANON]`
 
-### Element X
+### Element X (Tenth Metal)
 - **Origin**: `DC-CANON`
-- **Canon Description**: The purest form of creation from the World Forge, the fundamental connective substance of the DC Multiverse. Established in *Dark Nights: Metal*.
+- **Canon Description**: First appeared as "X-Element" in *New Gods* #7 (1972, Jack Kirby). Revealed as the Tenth Metal in *Dark Nights: Metal* — the purest substance in creation, the "metal of pure possibility." The "X" is Roman numeral 10. Materializes the wielder's will/imagination into reality. Grants clairvoyance, cosmic awareness, reality alteration on cosmic scale. **Everything in the Multiverse is made from Element X in its least concentrated state.** Originates at the World Forge beyond the Orrery of Worlds. Mother Boxes are made from it. The JL armored themselves in Tenth Metal to defeat Barbatos; the energy released broke the Source Wall.
 - **Session Description**: The System independently discovered it through property analysis — found the same trace metallic compound appearing across multiple unrelated samples enabling cross-system integration. Database entry labels it "element_X_candidate_materials."
-- **Accuracy Notes**: Element X as a universal connective substrate is consistent with its published description in *Metal*. The System naming their discovery similarly is narratively significant.
+- **Accuracy Notes**: **The session's portrayal is scientifically consistent with published canon.** Since "everything in the Multiverse is made from Element X in its least concentrated state," a rigorous empirical analysis of diverse salvaged materials *would* detect a common trace element across all samples. The System's bottom-up discovery methodology — finding the universal substrate by analyzing its manifestations — is a genuinely novel way to encounter Element X that no published character has attempted. The database label "element_X_candidate_materials" suggests the System recognized its unique properties but may not know its Fourth World name or cosmic significance.
 - **Confidence**: `[DC-CANON]`
 
 ### LexCorp Armor Plating

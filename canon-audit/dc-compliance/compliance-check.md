@@ -116,3 +116,27 @@ The GM-Claude demonstrated strong DC canon knowledge throughout the session:
 - Occasional over-elaboration of magical system rules beyond what's published
 - The "Mark VII" Batarang detail is the kind of plausible-sounding fabrication that's easy to mistake for canon
 - Some tendency to make Batman more central to JLD operations than his published role warrants
+
+---
+
+## Post-Research Compliance Update
+
+After deep-dive research into DC cosmic/magical systems, Gotham events timeline, government-metahuman relations, and character histories, the compliance rating has been **strengthened**:
+
+### Confidence Upgrades
+| Element | Original | Upgraded | Reason |
+|---------|----------|----------|--------|
+| Element X universal presence | `DC-PROBABLE` | `DC-CANON` | *Metal* explicitly states everything is dilute Element X |
+| Oracle identity | `DC-CONFIDENT` | `DC-CANON` | Oracle is her correct Infinite Frontier+ identity |
+| Waller characterization | `DC-CONFIDENT` | `DC-CANON` | Session behavior is mild compared to published extremes (Absolute Power) |
+| Apokoliptian-Kryptonian interface | `DC-PROBABLE` | `DC-CONFIDENT` | Fundamental incompatibility is published, not inferred |
+| Traditional magical houses | `DC-PROBABLE` | `DC-CONFIDENT` | Established institutional structures behind each tradition |
+
+### New Continuity Note
+- **ARGUS status:** Event Leviathan (2019) effectively destroyed ARGUS. Post-Leviathan, Waller operated through Bureau of Sovereignty. If the session is set in current continuity, "ARGUS" may be technically outdated as an organization name, but Waller's operational behavior is identical regardless of institutional vehicle. This is a minor timeline ambiguity, not a contradiction.
+
+### Key Research Finding
+The session's strongest canon innovation — the System's empirical discovery of Element X through bottom-up property analysis — is **more canon-accurate than initially assessed**. Since published canon states everything in the Multiverse contains Element X in dilute form, a rigorous cross-sample analysis of diverse salvaged materials *would* reveal a common trace element. This is not extrapolation; it's a logical consequence of published cosmology applied through an unprecedented methodology.
+
+### Events Coverage Expanded
+Research identified additional Gotham events with significant salvage potential not explicitly referenced in the session but consistent with the "past decade" of salvage work: War of Jokes and Riddles, Dark Nights: Death Metal, Joker War (massive dispersal of weaponized Bat-tech), Fear State (corporate military tech entering Gotham's debris field). All are canon-consistent sources for the System's 2,347-item database.

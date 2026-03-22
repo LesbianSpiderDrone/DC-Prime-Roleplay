@@ -227,3 +227,133 @@ Secret files to neutralize every JL member, stolen and weaponized by Ra's al Ghu
 *Justice League* Vol. 2 #20 (Geoff Johns): Batman showed Superman contingency boxes for each JL member. Also has a plan for himself.
 
 **Session relevance**: Batman's analytical approach to the System's work — threat assessments, distributed custody proposals — is entirely consistent with this contingency mindset.
+
+---
+
+## Amanda Waller — Threat Profile
+
+### Canon Characterization
+- **Backstory**: Son Joe Jr. killed by gang members. Daughter Damita raped and murdered. Husband killed confronting the murderer. Drives her hatred of unchecked power.
+- **New 52**: Redesigned younger/thinner. Former Team 7 member. Appointed ARGUS director after Trevor. Founded government-sanctioned JLA (*JLA* Vol. 3 #1, 2013) — each member chosen as counter to a main JL member.
+- **Rebirth**: Returned to classic heavyset appearance. Ran Task Force X from Belle Reve. Faked her own death to outmaneuver "the People." Systematically studied Squad members' psychological flaws.
+- **Later (post-session window)**: Became Dawn of DC's overarching villain. Used Beast World as political ammunition. Created Bureau of Sovereignty. Part of "Trinity of Evil." In *Absolute Power* (2024), created Task Force VII with Failsafe and Brainiac Queen — six Amazo androids that *permanently steal* metahuman powers. Successfully depowered Superman, Wonder Woman, Flash, GL, Martian Manhunter, Aquaman.
+
+### In Our Setting Window
+Waller is ARGUS director with full institutional power. Her interest in acquiring enhanced individuals and exotic capabilities is well-established. The session's 8-month surveillance operation targeting hybrid tech-magic integration is fabricated plot, but entirely consistent with her published character.
+
+---
+
+## Canon Compliance Summary
+
+### Overall Rating: **Strong**
+
+| Category | Rating | Notes |
+|----------|--------|-------|
+| Characters | Strong | All DC characters real. Characterizations accurate to Prime Earth. |
+| Locations | Strong | All locations real. Properties accurately described. |
+| Organizations | Strong | All organizations real. Mandates and relationships accurate. |
+| Events | Strong | All referenced events real. Timeline consistent. |
+| Relationships | Strong | Canon relationships accurately portrayed. |
+| Powers | Strong | Power sets accurately represented. Scaling reasonable. |
+| Items | Strong | All DC items real. Properties accurately described. |
+| Systems | Moderate-Strong | Core systems accurate; some extrapolation in magical politics. |
+
+### Discrepancies (All Minor)
+
+| # | Issue | Verdict | Resolution |
+|---|-------|---------|------------|
+| 1 | "Mark VII" Batarang designation | Creative Choice | Retain as session canon. Plausible but not published. |
+| 2 | Backwards speech length | Ambiguous | Accept. Varies by writer, no formal constraint. |
+| 3 | JLD leadership (Zatanna vs. Wonder Woman) | GM-Error, self-corrected | Use corrected version: Wonder Woman leads, Zatanna is core member. |
+| 4 | Batman's House of Mystery access | Ambiguous | Accept. Zatanna's invitation provides access. |
+| 5 | "Traditional magical houses" as factions | Reasonable shorthand | Accept. Underlying institutional structures are canon. |
+| 6 | STAR Labs 3-year interface project | Extrapolation | Problem is canon; specific timeline is session-generated. |
+| 7 | ARGUS 8-month hunting operation | Creative Choice | Session plot driver. Consistent with Waller's character. |
+| 8 | Ishtarite magical tradition | OC Worldbuilding | Player's creation. Mesopotamian gods exist in DC; specific practice is OC. |
+| 9 | ARGUS operational status | Ambiguous | Operational in our window. Destroyed post-Leviathan (June 2019). |
+| 10 | Element X discovery method | **Not a discrepancy** | Canon states everything is dilute Element X. Bottom-up discovery is logically consistent. |
+
+### Confidence Upgrades After Research
+
+| Element | Before | After | Reason |
+|---------|--------|-------|--------|
+| Element X universal presence | DC-PROBABLE | **DC-CANON** | *Metal* explicitly states it |
+| Oracle identity | DC-CONFIDENT | **DC-CANON** | Correct Infinite Frontier+ identity |
+| Waller characterization | DC-CONFIDENT | **DC-CANON** | Session is mild vs. published extremes |
+| Apokoliptian-Kryptonian interface | DC-PROBABLE | **DC-CONFIDENT** | Fundamental incompatibility is published |
+| Traditional magical houses | DC-PROBABLE | **DC-CONFIDENT** | Established institutional structures |
+
+---
+
+## Session-Specific Content (NOT DC Canon)
+
+These elements were created for the roleplay and exist only in this continuity:
+
+### Plot Elements
+1. Waller's 8-month surveillance targeting hybrid tech-magic integration
+2. The System's approach to Zatanna at a public meet-and-greet
+3. Extraction to House of Mystery and workshop reveal
+4. JLD protection arrangement (workshop space, materials, research sharing)
+5. USB database with 2,347 items and 16,209 correlations
+6. The safe with twelve-layer security
+7. Distributed custody agreement for dangerous materials
+8. Papa Midnite's community outreach on JLD's behalf
+9. Wonder Woman's scheduled six-hour briefing (never shown)
+10. Oracle's 93% confidence on ARGUS surveillance
+
+### Session-Specific Technical Details
+| Detail | Status |
+|--------|--------|
+| Mark VII Batarang designation | Plausible but fabricated |
+| STAR Labs 3-year interface research | Fabricated timeline; real problem |
+| Olympian-Parliament integration as Constantine's unsolved challenge | Fabricated problem |
+| Oracle's 93% confidence figure | Fabricated specificity |
+
+### OC Worldbuilding
+- **Ishtarite magical tradition** — Sacred sexuality theology as magical framework. Player's creation via Stephanie Salvage.
+- **Syncretic magic as cooperative integration** — Multiple traditions cooperating as equals (unprecedented in DCU). Enabled by System's plural cognitive architecture.
+- **Property-based classification** — Cataloguing materials by functional properties rather than origin/name. The methodology that enabled Element X discovery.
+
+---
+
+## Character Relationships (Verified Canon)
+
+| Relationship | Canon Status |
+|-------------|-------------|
+| Zatanna – Constantine | Romantic history, professional partnership; studied under Nick Necro |
+| Batman – Oracle | Intelligence partnership; she is his primary information coordinator |
+| Batman – Alfred | Surrogate father, operational support |
+| Constantine – Papa Midnite | Adversarial-transactional; mutual distrust but utility |
+| Wonder Woman – JLD | Led JLD during Vol. 2 (2018-2021) |
+| Silas Stone – Cyborg | Father-son; Silas created Cyborg's Mother Box integration |
+| Waller – Steve Trevor | She replaced him as ARGUS director; professional tension |
+| Waller – Justice League | Adversarial; built JLA specifically to counter them |
+| Waller – Batman | Mutual respect/distrust; both non-powered strategists |
+
+---
+
+## World Forge & Cosmology (Quick Reference)
+
+- **Perpetua** created the Multiverse. Assigned three cosmic beings: Monitor, Anti-Monitor, World Forger (Alpheus).
+- **Alpheus** worked in the Forge of Worlds inside a "sea of possibility." Stable universes → Orrery of Worlds. Unstable ones destroyed.
+- **Barbatos**: Dragon created to consume failed universes. Killed the World Forger. Let failed universes fester → Dark Multiverse. Used Court of Owls as agents. Infected Batman with five metals to open a doorway. Defeated and chained in Tenth Metal.
+- **Element X**: Purest substance in creation. "X" = Roman numeral 10. "Nth" = "Ninth" — making Nth Metal an impure facsimile. Everything in the Multiverse is made from Element X in its least concentrated state.
+- **The Source**: Metaphysical force driving the universe. Powers Mother Boxes. Lords of Order and Chaos were born from it.
+
+---
+
+## Key Citations
+
+| Document | Citation | Relevance |
+|----------|----------|-----------|
+| *Justice League Dark* Vol. 2 #1 | July 2018, Tynion IV | JLD reforms, Dark Quarters established |
+| *Dark Nights: Metal* #1-6 | 2017-2018, Snyder/Capullo | Nth Metal, Element X, five divine metals, Source Wall broken |
+| *Justice League: No Justice* #1-4 | May-June 2018 | Bridge between Metal and JLD Vol. 2 |
+| *Batman* Vol. 2 #1-11 | 2011-2012, Snyder/Capullo | Court of Owls, Night of the Owls, Electrum |
+| *Batman* Vol. 2 #35-40 | 2014-2015, Snyder/Capullo | Endgame, Dionesium |
+| *Forever Evil* #1-7 | 2013-2014, Johns/Finch | Crime Syndicate invasion, ARGUS devastated |
+| *Event Leviathan* #1 | June 2019, Bendis | ARGUS destroyed (window boundary) |
+| *Batman* Vol. 3 #77 | Sept 2019, King | Alfred killed by Bane (window boundary) |
+| *JLA* #43-46 | 2000, Waid | Tower of Babel (Batman's contingency plans) |
+| *Hawkman* #4 | 1964 | Zatanna's first appearance |
+| *New Gods* #7 | 1972, Kirby | Element X ("X-Element") first appearance |

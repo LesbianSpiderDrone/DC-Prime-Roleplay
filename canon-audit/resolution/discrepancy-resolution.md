@@ -59,20 +59,20 @@ For each discrepancy identified in the compliance check, this document determine
 ## Discrepancy 5: Magical Community "Traditional Houses"
 
 - **Claim**: Organized magical families/houses that react to cross-tradition work as political factions
-- **Canon Status**: Magical traditions in DC are conservative and territorial (implied), but organized "old families" as political actors is not well-established
-- **Verdict**: `EXTRAPOLATION`
-- **Reasoning**: DC's magical community includes territorial practitioners (Atlantean sorcerers, Olympian magic users, Egyptian practitioners) who guard their traditions. The idea that they'd react negatively to an outsider combining traditions without permission is a reasonable inference. The specific political structure is session-created but not contradicted by canon.
-- **Recommendation**: Accept as reasonable worldbuilding extension. Note that specific "house" politics are not published canon.
+- **Canon Status**: Verified magical traditions are distinct, historically separate, and have institutional custodians: Olympian gods (Skyland, Sphere of Gods), Atlantean royal sorcerers (built by Homo Magi, oldest tradition), Parliament of Trees (governing body of The Green), Lords of Order and Chaos (cosmic entities predating all gods), Egyptian tradition (Nabu/Doctor Fate), Homo Magi lineages (taught at Rock of Eternity). Each tradition has established territorial and institutional boundaries.
+- **Verdict**: Upgraded from `EXTRAPOLATION` to `AMBIGUOUS` (closer to canon than initially assessed)
+- **Reasoning**: Research confirms that DC's magical traditions are not just informally territorial — they have formal institutional structures (Parliaments, Lords, divine hierarchies, royal lineages). The session's "traditional houses" framing is a reasonable shorthand for these established institutions. Papa Midnite warning about "the old families" maps onto real canon power structures (Homo Magi lineages, Atlantean royal sorcerers, etc.).
+- **Recommendation**: Accept. The specific term "traditional houses" is session shorthand, but the underlying political dynamics are well-supported by canon.
 
 ---
 
 ## Discrepancy 6: STAR Labs "Three Years" on Interface Problem
 
 - **Claim**: Silas Stone at STAR Labs has been working on the Apokoliptian-Kryptonian computational interface problem for three years
-- **Canon Status**: No published source establishes this specific research project or timeline
-- **Verdict**: `CREATIVE-CHOICE`
-- **Reasoning**: The GM-Claude created this detail to establish the significance of the System's achievement (solving what institutions couldn't). The underlying problem (Apokoliptian-Kryptonian incompatibility) is reasonable extrapolation from Cyborg's unique biological solution.
-- **Recommendation**: Retain as session-specific canon. The underlying incompatibility is a fair inference; the specific timeline is narrative device.
+- **Canon Status**: No published source establishes this specific research project or timeline. **However**, the underlying incompatibility is now confirmed as established canon: Apokoliptian tech is "fundamentally incompatible with most other technological paradigms (Kryptonian, Earth-based)." Cyborg's biological Mother Box integration is explicitly unique because "the human tissue serves as a translation layer." Mother Boxes are powered by The Source via Element X; Father Boxes by the Anti-Life Equation — these are built on opposing cosmic forces.
+- **Verdict**: Upgraded from `CREATIVE-CHOICE` to `EXTRAPOLATION` — the problem is canon; only the specific project/timeline is session-generated
+- **Reasoning**: Research confirms the Apokoliptian-Kryptonian interface problem is a genuine canon challenge, not a fabricated one. The incompatibility is fundamental (different cosmic power sources). Silas Stone is canonically the scientist who created Cyborg's unique biological solution. It's a reasonable inference that STAR Labs would continue researching a mechanical alternative. The "three years" timeline is narrative device.
+- **Recommendation**: Retain. Note that the underlying problem is stronger canon than initially assessed.
 
 ---
 
@@ -96,17 +96,47 @@ For each discrepancy identified in the compliance check, this document determine
 
 ---
 
+## Discrepancy 9: ARGUS Operational Status
+
+- **Claim**: ARGUS is actively operating under Waller's command as the institutional vehicle for surveilling the System
+- **Canon Status**: ARGUS was effectively **destroyed by Event Leviathan (2019)** — Mark Shaw teleported ARGUS alongside Checkmate, DEO, Spyral, and Task Force X facilities. Post-Leviathan, Waller operated through Task Force X from Earth-3, then through the **Bureau of Sovereignty** during Dawn of DC, then **Task Force VII** during Absolute Power.
+- **Verdict**: `AMBIGUOUS`
+- **Reasoning**: ARGUS's post-Leviathan status is unclear — it may have been reconstituted (DC continuity post-Death Metal restored many things). Waller has always operated through whatever institutional vehicle is available. The session's use of "ARGUS" may be technically outdated depending on exact timeline placement, but functionally accurate — Waller + government surveillance apparatus = the same threat regardless of the agency name.
+- **Recommendation**: Accept. If timeline precision becomes important, the session could acknowledge ARGUS as reconstituted or use "Bureau of Sovereignty" instead. Either way, Waller's operational behavior is identical.
+
+---
+
+## Discrepancy 10: Element X Discovery Methodology
+
+- **Claim**: The System discovered Element X empirically through bottom-up property analysis of salvaged materials, finding trace amounts across unrelated samples
+- **Canon Status**: *Dark Nights: Metal* explicitly states that "everything in the Multiverse is made from Element X in its least concentrated state." This is published, verified canon.
+- **Verdict**: Not a discrepancy — this is a **CANON-CONSISTENT DISCOVERY**
+- **Reasoning**: This was initially flagged as `[DC-PROBABLE]` but research confirms it should be `[DC-CANON]`. The System's methodology (analyzing diverse materials, finding a common trace element) is the exact scientific approach that would reveal Element X's universal presence. No published character has discovered Element X this way because no published character has the System's specific combination of access to diverse salvage + multi-tradition analytical framework + obsessive property-based cataloguing. The discovery is unprecedented in method but completely consistent in result.
+- **Recommendation**: Upgrade to `[DC-CANON]`. This is one of the session's strongest narrative innovations — using published cosmology to justify an OC's discovery through rigorous methodology rather than cosmic destiny.
+
+---
+
 ## Summary of Resolutions
 
-| # | Discrepancy | Verdict | Action |
-|---|-------------|---------|--------|
-| 1 | Mark VII Batarangs | Creative Choice | Retain as session canon |
-| 2 | Backwards speech length | Ambiguous | Accept |
-| 3 | JLD leadership | GM-Error (self-corrected) | Use corrected version |
-| 4 | Batman's HoM access | Ambiguous | Accept |
-| 5 | Traditional magical houses | Extrapolation | Accept, note limitations |
-| 6 | STAR Labs 3 years | Creative Choice | Retain as session canon |
-| 7 | ARGUS 8 months | Creative Choice | Retain as session canon |
-| 8 | Ishtarite tradition | OC Worldbuilding | Classify as OC |
+| # | Discrepancy | Verdict | Action | Post-Research Update |
+|---|-------------|---------|--------|---------------------|
+| 1 | Mark VII Batarangs | Creative Choice | Retain as session canon | No change |
+| 2 | Backwards speech length | Ambiguous | Accept | No change |
+| 3 | JLD leadership | GM-Error (self-corrected) | Use corrected version | No change |
+| 4 | Batman's HoM access | Ambiguous | Accept | No change |
+| 5 | Traditional magical houses | ~~Extrapolation~~ → Ambiguous | Accept | **Upgraded** — research confirms established institutional structures behind each tradition |
+| 6 | STAR Labs 3 years | ~~Creative Choice~~ → Extrapolation | Retain as session canon | **Upgraded** — underlying tech incompatibility is established canon |
+| 7 | ARGUS 8 months | Creative Choice | Retain as session canon | No change |
+| 8 | Ishtarite tradition | OC Worldbuilding | Classify as OC | No change |
+| 9 | ARGUS operational status | Ambiguous (NEW) | Accept with note | ARGUS may be defunct post-Leviathan; Waller's behavior is consistent regardless |
+| 10 | Element X discovery | Canon-Consistent (NEW) | Upgrade to DC-CANON | Not a discrepancy — published canon supports the discovery methodology |
 
-**Overall Assessment**: No discrepancy rises to the level of breaking canon compliance. The session operates within DC Prime Earth continuity with minor creative embellishments and reasonable extrapolations, all of which serve the narrative without contradicting published material.
+**Overall Assessment**: Research has **strengthened** the session's canon compliance rating. Several items initially flagged as extrapolation or probable turned out to be more solidly grounded in published canon than the original audit recognized. The Apokoliptian-Kryptonian interface problem is a genuine canon challenge (not fabricated). Element X's universal presence is published fact (not speculation). The magical community's institutional structures are well-documented. The only true continuity question is ARGUS's post-Leviathan status, which is a minor timeline ambiguity rather than a contradiction.
+
+**Post-Research Confidence Upgrades:**
+- Element X as universal substrate: `[DC-PROBABLE]` → `[DC-CANON]`
+- Oracle identity: `[DC-CONFIDENT]` → `[DC-CANON]`
+- Waller characterization: `[DC-CONFIDENT]` → `[DC-CANON]`
+- Apokoliptian-Kryptonian interface: `[DC-PROBABLE]` → `[DC-CONFIDENT]`
+- Traditional magical houses: `[DC-PROBABLE]` → `[DC-CONFIDENT]`
+- Homo Magi distinction: already `[DC-CANON]`, now with significantly more supporting detail

@@ -61,25 +61,26 @@
 - **DC Canon Name**: Oracle (Barbara Gordon)
 - **Origin**: `DC-CANON`
 - **Role in Session**: Contacted by Batman for intelligence support. Runs surveillance sweeps, identifies ARGUS surveillance patterns, confirms Waller's direct command involvement, searches for Element X research queries in government databases.
-- **Canon Status**: Alive; has operated as both Batgirl and Oracle in Prime Earth continuity
-- **Canon Accuracy Notes**: Her role as Batman's intelligence coordinator, pattern analysis capabilities, and encrypted communication with Batman are canon-consistent. The name "Oracle" specifically refers to her information-broker role.
+- **Canon Status**: Alive; primarily operates as **Oracle** since Infinite Frontier (2021+). Full Prime Earth timeline: Batgirl (New 52, 2011-2020, regained mobility via spinal implant) -> spinal implant damaged during Joker War (2020) -> formally returned to Oracle identity (*Infinite Frontier* #0, 2021, James Tynion IV). Now operates from Clocktower, mentors Cassandra Cain and Stephanie Brown (Batgirls), can still suit up as Batgirl occasionally but primarily tactical/intelligence. Major supporting character and love interest in *Nightwing* (Tom Taylor).
+- **Canon Accuracy Notes**: Her role as Batman's intelligence coordinator, pattern analysis capabilities, and encrypted communication with Batman are canon-consistent. The session's use of "Oracle" is the correct current identity. Her capabilities (surveillance pattern analysis, database searches, communication intercepts) match her published skill set precisely.
 - **First Appearance (DC)**: *Detective Comics* #359 (1967, as Batgirl). *Suicide Squad* #23 (1989, as Oracle). Prime Earth: *Batgirl* #1 (2011)
-- **Confidence**: `[DC-CONFIDENT]`
-- **Discrepancies**: Whether she's operating as Oracle or Batgirl depends on the specific Prime Earth era. Session uses "Oracle" which is consistent with certain periods.
+- **Confidence**: Upgraded from `[DC-CONFIDENT]` to `[DC-CANON]` — "Oracle" is her correct current identity in Infinite Frontier+ continuity
+- **Discrepancies**: None. The session's use of Oracle is the correct current-era identity.
 
 ---
 
 ### Amanda Waller
-- **DC Canon Name**: Amanda Waller
+- **DC Canon Name**: Amanda Belle Waller (nee Blake), codename "the Wall"
 - **Origin**: `DC-CANON`
 - **Role in Session**: Antagonist (off-screen). Her ARGUS surveillance operation is the catalyst for the System seeking help. Described as personally directing the surveillance of the Salvage System, hunting for hybrid tech-magic integration capabilities for eight months.
-- **Canon Status**: Alive; active in Prime Earth as head of ARGUS / government intelligence
-- **Canon Accuracy Notes**: Characterization aligns with Prime Earth — ruthless government intelligence operator, willing to recruit or forcibly acquire metahuman/enhanced assets, operates through ARGUS, viewed as one of the most dangerous non-powered humans. Her interest in acquiring exotic capabilities for government use is consistent with her published motivations.
+- **Canon Status**: Alive; active in Prime Earth. Full arc: ARGUS director -> JLA founder -> Task Force X commander -> Bureau of Sovereignty -> Absolute Power orchestrator -> DC All In era
+- **Canon Accuracy Notes**: Session characterization strongly aligns with Prime Earth. Waller is canonically a non-powered government operative who controls supervillains through sheer force of will. Her tragic backstory (son murdered, daughter raped and murdered, husband killed in revenge) drives her hatred of unchecked power. Key canon escalation: she founded the government JLA to counter the independent Justice League; she faked her own death to outmaneuver shadow organizations; she studied Squad members' psychological flaws to weaponize them; she ordered drone strikes on transformed civilians during Beast World; she created Amazo androids that *permanently steal metahuman powers* during Absolute Power; and critically, **she erased magical knowledge from spellcasters** during Absolute Power. Her "pre-acquisition monitoring" of the System is mild compared to her published extremes.
 - **First Appearance (DC)**: *Legends* #1 (1986). Prime Earth: *Justice League* #1 (2011) / *Suicide Squad* #1 (2011)
-- **Confidence**: `[DC-CONFIDENT]`
+- **Confidence**: Upgraded from `[DC-CONFIDENT]` to `[DC-CANON]` — session characterization is well within published behavior parameters
 - **Discrepancies**:
   - Session states ARGUS has been "actively searching for Element X integration for eight months" — this is session-generated plot detail. `[FABRICATED]`
   - The specific "pre-acquisition monitoring" pattern attributed to Waller is plausible but session-specific.
+  - **Continuity question**: If the session is set after Absolute Power, ARGUS may be defunct (destroyed by Event Leviathan in 2019 and not clearly reconstituted). Waller may be operating through the Bureau of Sovereignty or a reconstituted organization. The session's use of "ARGUS" may be technically outdated but functionally accurate — Waller always operates through some institutional vehicle.
 
 ---
 
@@ -100,10 +101,11 @@
 - **Origin**: `DC-CANON`
 - **Role in Session**: Referenced (not present). Zatanna and Constantine cite her as their prior experience with DID/plurality — "64 alters, each with different powers" from Doom Patrol.
 - **Canon Status**: Alive; Doom Patrol member in Prime Earth
-- **Canon Accuracy Notes**: The description of 64 alters each with different powers is canon-accurate. She is correctly placed in Doom Patrol. The comparison to the Salvage System (adversarial/chaotic vs. cooperative) is a valid analytical distinction.
-- **First Appearance (DC)**: *Doom Patrol* #19 (1989, Grant Morrison run)
+- **Canon Accuracy Notes**: The description of 64 alters each with different powers is canon-accurate. Created by Grant Morrison and Richard Case, based on Truddi Chase's autobiography *When Rabbit Howls*. Kay Challis was sexually abused by her father starting at age five — the first alter "Miranda" took over as host, later went dormant, triggering many more alters. The Dominators' "gene bomb" during an alien invasion activated a distinct superpower for each of her 64 alters. Her internal mental landscape ("The Underground") is conceptualized as a subway network with stations for each personality. Notable alters: Hammerhead (super strength), Flit (teleportation), Black Annis (claws), Sun Daddy (gigantic fire form), Lucy Fugue (radioactive), Flaming Katy (pyrokinesis).
+- **Session Relevance**: The comparison to the Salvage System is analytically sharp — Jane's DID is **traumagenic** (caused by abuse), her alters are often in conflict, and her system is chaotic/adversarial. The Salvage System is **non-traumagenic endogenous**, cooperative, and structurally advantageous. This distinction is the key point the session makes about plurality not being a single experience.
+- **First Appearance (DC)**: *Doom Patrol* vol. 2 #19 (February 1989, Grant Morrison/Richard Case)
 - **Confidence**: `[DC-CANON]`
-- **Discrepancies**: None. Accurately referenced.
+- **Discrepancies**: None. Accurately referenced. The session's analytical comparison is a valid creative distinction.
 
 ---
 

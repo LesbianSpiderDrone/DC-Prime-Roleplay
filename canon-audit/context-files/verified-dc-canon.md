@@ -16,7 +16,7 @@ This document contains only DC elements that have been verified against publishe
 | Wonder Woman (Diana) | *All Star Comics* #8 (1941) | Active; led JLD vol. 2 | Amazonian, divine heritage, JLD leader during 2018-2021 run |
 | Oracle (Barbara Gordon) | *Detective Comics* #359 (1967) | Active (primarily as Oracle since Infinite Frontier) | Batman's intelligence coordinator, information broker, operates from Clocktower |
 | Amanda Waller | *Legends* #1 (1986) | Active | ARGUS director, Task Force X commander, Dawn of DC's overarching antagonist |
-| Papa Midnite | *The Books of Magic* #2 (1990) | Active | Voodoo practitioner, magical community power broker, transactional relationship with Constantine |
+| Papa Midnite | *Hellblazer* #1 (January 1988) | Active | Voodoo practitioner, magical community power broker, transactional relationship with Constantine |
 | Crazy Jane (Kay Challis) | *Doom Patrol* vol. 2 #19 (1989) | Active; Doom Patrol | 64 alters each with distinct superpower, DID caused by childhood abuse, Gene Bomb activated powers |
 | Silas Stone | Various | Active | STAR Labs scientist, father of Cyborg |
 

@@ -90,7 +90,7 @@
 - **Role in Session**: Contacted by Constantine to manage magical community politics. Asked to spread word that the System is under JLD protection and frame the narrative to prevent traditional magical houses from reacting hostilely. Negotiates access to the System's research as payment.
 - **Canon Status**: Alive; recurring character in Constantine's stories
 - **Canon Accuracy Notes**: His role as a magical community power broker with connections across traditions aligns with published characterization. His transactional relationship with Constantine ("What's in it for me?") is canon-consistent. His position as someone who can influence magical community opinion is established in canon.
-- **First Appearance (DC)**: *The Books of Magic* #2 (1990, Pre-New 52). Prime Earth: *Constantine* #1 (2013)
+- **First Appearance (DC)**: *Hellblazer* #1 (January 1988, Jamie Delano/John Ridgway). Prime Earth: *Constantine* #1 (2013)
 - **Confidence**: `[DC-CONFIDENT]`
 - **Discrepancies**: His specific ability to "spread the word the right way" across the magical community is plausible but the scope of his influence may be embellished for session purposes.
 
